@@ -1,0 +1,53 @@
+/* CodeSnippet.css */
+.code-snippet-container {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-right: 50px;
+}
+
+.code-snippet {
+    position: relative;
+    background-color: #1e1e3f;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.description {
+    background-color: #282a36;
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+    flex-grow: 1;
+}
+
+.description h3 {
+    margin-top: 20px;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+.links a {
+    color: #a6e3a1;
+    text-decoration: none;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+.copy-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #a6e3a1;
+}
+
+.copy-icon.copied {
+    color: green;
+}
