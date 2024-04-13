@@ -4,13 +4,13 @@ const ES61 = () => {
   return (
     <CodeSnippet
       descriptionUrl={
-        "https://github.com/amal-krishna-m-u/blogs/blob/main/unleashZanpakuto.txt"
+        "https://github.com/amal-krishna-m-u/blogs/blob/main/performJutsu.txt"
       }
       fileLink={
-        "https://github.com/amal-krishna-m-u/learnNextByExample/blob/main/es6/destructureObject.js"
+        "https://github.com/amal-krishna-m-u/learnNextByExample/blob/main/es6/arrowFunction.js"
       }
       githubUrl={
-        "https://github.com/amal-krishna-m-u/learnNextByExample/blob/main/es6/destructureObject.js"
+        "https://github.com/amal-krishna-m-u/learnNextByExample/blob/main/es6/arrowFunction.js"
       }
       repoLink={"https://github.com/amal-krishna-m-u/learnNextByExample"}
     />
