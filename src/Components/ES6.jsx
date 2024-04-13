@@ -58,8 +58,8 @@ const ES6 = () => {
         )}
 
         <Routes>
-          <Route path="/es6/destructuring-object" element={<ES61 />} />
-          <Route path="/es6/2" element={<ES62 />} />
+          <Route path="/es6/arrow-function" element={<ES61 />} />
+          <Route path="/es6/default-parameters" element={<ES62 />} />
           <Route path="/es6/3" element={<ES63 />} />
           <Route path="/es6/4" element={<ES64 />} />
           <Route path="/es6/5" element={<ES65 />} />
